@@ -174,32 +174,25 @@ export const CitiesList = (props) => {
       <div className="drivers_row drivers_header">
         <div>
           Сокращение
-          <SwitchLeftIcon sx={{ rotate: "90deg" }} />
         </div>
 
         <div>
           Наименование
-          <SwitchLeftIcon sx={{ rotate: "90deg" }} />
         </div>
         <div>
           Оф.наименование
-          <SwitchLeftIcon sx={{ rotate: "90deg" }} />
         </div>
         <div>
           Окато
-          <SwitchLeftIcon sx={{ rotate: "90deg" }} />
         </div>
         <div>
           Октмо
-          <SwitchLeftIcon sx={{ rotate: "90deg" }} />
         </div>
         <div>
           Долгота
-          <SwitchLeftIcon sx={{ rotate: "90deg" }} />
         </div>
         <div>
           Ширина
-          <SwitchLeftIcon sx={{ rotate: "90deg" }} />
         </div>
       </div>
       {filteredPassengers

@@ -71,12 +71,10 @@ export const DirectionsList = (props) => {
                 <div className='directions_row drivers_header'>
                     <div>
                         Наименование
-                        <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                     </div>
 
                     <div>
                         Сокращение
-                        <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                     </div>
                     <div>
                         Действия

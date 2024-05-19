@@ -116,28 +116,22 @@ export const DriversList = (props) => {
             <div className='drivers_row drivers_header'>
                 <div>
                     Фамилия
-                    <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                 </div>
 
                 <div>
                     Имя
-                    <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                 </div>
                 <div>
                     Отчество
-                    <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                 </div>
                 <div>
                     Пол
-                    <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                 </div>
                 <div>
                     Дата рождения
-                    <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                 </div>
                 <div>
                     Активность
-                    <SwitchLeftIcon sx={{ rotate: '90deg' }} className='table_icon'/>
                 </div>
                 <div>
                     Действия
