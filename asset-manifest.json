@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e895570b.css",
+    "main.js": "/static/js/main.15456fa4.js",
+    "static/media/avatar.png": "/static/media/avatar.79ac97fe8e1883250735.png",
+    "static/media/photo_2023-05-12_15-07-08_large (1).jpg": "/static/media/photo_2023-05-12_15-07-08_large (1).4da20c4b486fcb3ab780.jpg",
+    "static/media/wave-logo.png": "/static/media/wave-logo.326959cdb2156672c23b.png",
+    "index.html": "/index.html",
+    "main.e895570b.css.map": "/static/css/main.e895570b.css.map",
+    "main.15456fa4.js.map": "/static/js/main.15456fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e895570b.css",
+    "static/js/main.15456fa4.js"
+  ]
+}
